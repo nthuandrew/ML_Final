@@ -1,0 +1,197 @@
+{
+  "Year": "題目/98學測",
+  "reading_question": [
+    {
+      "ID": 41,
+      "answer": "A",
+      "choice": {
+        "A": "A simple, slow-paced life.",
+        "B": "A life of hard work and security.",
+        "C": "A religious, peasant-like life.",
+        "D": "A life away from paper and pencils."
+      },
+      "content": "",
+      "question": "Which of the following best describes the life the author is leading?"
+    },
+    {
+      "ID": 42,
+      "answer": "D",
+      "choice": {
+        "A": "Why Bother Magazine.",
+        "B": "ABC Activity Insurance Company.",
+        "C": "Stab, Grab, Grit, and Nasty Law Firm.",
+        "D": "The International Institute of Not Doing Much."
+      },
+      "content": "",
+      "question": "Where is Eleanor’s letter sent to?"
+    },
+    {
+      "ID": 43,
+      "answer": "C",
+      "choice": {
+        "A": "Replacing the manual work system with modern technology.",
+        "B": "Turning off lights in the daytime to save electricity.",
+        "C": "Recycling paper resources whenever possible.",
+        "D": "Buying birds and pets as company for the staff."
+      },
+      "content": "",
+      "question": "Which of the following is practiced in the author’s company?"
+    },
+    {
+      "ID": 44,
+      "answer": "B",
+      "choice": {
+        "A": "She works as a manager in the author’s company.",
+        "B": "She sometimes helps fertilize the lawn outside the sauna.",
+        "C": "She often helps with inter-office correspondence using e-mail.",
+        "D": "Her handwriting has improved a lot after entering the company."
+      },
+      "content": "",
+      "question": "What is true about Maggie?"
+    },
+    {
+      "ID": 45,
+      "answer": "B",
+      "choice": {
+        "A": "The problems of ’s theory.",
+        "B": "The background of building a green airport.",
+        "C": "The history of the .",
+        "D": "The ease of transportation to the Pacific islands."
+      },
+      "content": "The Galápagos Islands are the Pacific island paradise where ’s theory of evolution was born. They are places filled with giant tree lizards, sandy beaches, and tropical plants. Now they will be famous for one more thing: the world’s first green airport.This group of islands off the coast of  has recently contracted Argentine  to manage the redevelopment of the airport on the . It is estimated that US$20 million is needed to complete the project . The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle. This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “” in 2007.Pacific islands like the Galápagos, Easter Island, and , have economies that are driven almost completely by tourism. However, some people think these are “unsustainable models of development.” The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006. These increases put great stress on the islands’ resources and environment. Air travel is especially criticized for exhausting natural resources and causing environmental damage. Thus, efforts are being made to reduce the environmental impact of the tourism industry. The greening of airports is just one of these attempts.",
+      "question": "What is this article mainly about?"
+    },
+    {
+      "ID": 46,
+      "answer": "C",
+      "choice": {
+        "A": "In .",
+        "B": "In .",
+        "C": "In Baltra.",
+        "D": "In the ."
+      },
+      "content": "The Galápagos Islands are the Pacific island paradise where ’s theory of evolution was born. They are places filled with giant tree lizards, sandy beaches, and tropical plants. Now they will be famous for one more thing: the world’s first green airport.This group of islands off the coast of  has recently contracted Argentine  to manage the redevelopment of the airport on the . It is estimated that US$20 million is needed to complete the project . The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle. This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “” in 2007.Pacific islands like the Galápagos, Easter Island, and , have economies that are driven almost completely by tourism. However, some people think these are “unsustainable models of development.” The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006. These increases put great stress on the islands’ resources and environment. Air travel is especially criticized for exhausting natural resources and causing environmental damage. Thus, efforts are being made to reduce the environmental impact of the tourism industry. The greening of airports is just one of these attempts.",
+      "question": "Where will the world’s first green airport be built?"
+    },
+    {
+      "ID": 47,
+      "answer": "A",
+      "choice": {
+        "A": "They are located near  in the .",
+        "B": "They have had a great increase in population since 2001.",
+        "C": "They will invest US$20 million to promote their tourism.",
+        "D": "They have become one of the most dangerous places in the world."
+      },
+      "content": "The Galápagos Islands are the Pacific island paradise where ’s theory of evolution was born. They are places filled with giant tree lizards, sandy beaches, and tropical plants. Now they will be famous for one more thing: the world’s first green airport.This group of islands off the coast of  has recently contracted Argentine  to manage the redevelopment of the airport on the . It is estimated that US$20 million is needed to complete the project . The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle. This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “” in 2007.Pacific islands like the Galápagos, Easter Island, and , have economies that are driven almost completely by tourism. However, some people think these are “unsustainable models of development.” The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006. These increases put great stress on the islands’ resources and environment. Air travel is especially criticized for exhausting natural resources and causing environmental damage. Thus, efforts are being made to reduce the environmental impact of the tourism industry. The greening of airports is just one of these attempts.",
+      "question": "What is true about the ?"
+    },
+    {
+      "ID": 48,
+      "answer": "A",
+      "choice": {
+        "A": "The plan to build a green airport.",
+        "B": "The research on the production of solar energy.",
+        "C": "The task of calculating a carbon footprint.",
+        "D": "The study on the exhaustion of natural resources."
+      },
+      "content": "The Galápagos Islands are the Pacific island paradise where ’s theory of evolution was born. They are places filled with giant tree lizards, sandy beaches, and tropical plants. Now they will be famous for one more thing: the world’s first green airport.This group of islands off the coast of  has recently contracted Argentine  to manage the redevelopment of the airport on the . It is estimated that US$20 million is needed to complete the project . The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle. This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “” in 2007.Pacific islands like the Galápagos, Easter Island, and , have economies that are driven almost completely by tourism. However, some people think these are “unsustainable models of development.” The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006. These increases put great stress on the islands’ resources and environment. Air travel is especially criticized for exhausting natural resources and causing environmental damage. Thus, efforts are being made to reduce the environmental impact of the tourism industry. The greening of airports is just one of these attempts.",
+      "question": "What does the project in the second paragraph refer to?"
+    },
+    {
+      "ID": 49,
+      "answer": "D",
+      "choice": {
+        "A": "The usefulness of Google Earth.",
+        "B": "Whether cattle are superior to other animals.",
+        "C": "Animals’ sensitivity to natural disasters.",
+        "D": "Whether cattle behave like compass needles."
+      },
+      "content": "According to popular folklore, many animals are smarter than they appear. Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground. But cattle may have another hidden talent in telling which way is north.Small animals such as mole rats living underground are known for the use of magnetism to navigate. Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields. They investigated this possibility by studying images of thousands of cattle captured on Google Earth, a website that stitches together satellite photographs to produce an image of the Earth’s surface.Grazing animals are known to orient themselves in a way that minimizes wind chill from the north and maximizes the warmth of the sun when they are cold. The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.The researchers concluded that cattle do generally orient themselves in a north-south direction. This north-south preference has also been noted in flies, termites and honeybees. But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail. The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+      "question": "What is the article mainly about?"
+    },
+    {
+      "ID": 50,
+      "answer": "C",
+      "choice": {
+        "A": "Rainfall.",
+        "B": "Earthquakes.",
+        "C": "Location.",
+        "D": "Cost."
+      },
+      "content": "According to popular folklore, many animals are smarter than they appear. Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground. But cattle may have another hidden talent in telling which way is north.Small animals such as mole rats living underground are known for the use of magnetism to navigate. Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields. They investigated this possibility by studying images of thousands of cattle captured on Google Earth, a website that stitches together satellite photographs to produce an image of the Earth’s surface.Grazing animals are known to orient themselves in a way that minimizes wind chill from the north and maximizes the warmth of the sun when they are cold. The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.The researchers concluded that cattle do generally orient themselves in a north-south direction. This north-south preference has also been noted in flies, termites and honeybees. But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail. The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+      "question": "Which of the following factors might affect Dr. Begall’s research result?"
+    },
+    {
+      "ID": 51,
+      "answer": "A",
+      "choice": {
+        "A": "Cattle point north-south.",
+        "B": "Magnetism can’t be studied scientifically.",
+        "C": "Animals prefer to look south.",
+        "D": "Google Earth is a reliable research tool."
+      },
+      "content": "According to popular folklore, many animals are smarter than they appear. Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground. But cattle may have another hidden talent in telling which way is north.Small animals such as mole rats living underground are known for the use of magnetism to navigate. Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields. They investigated this possibility by studying images of thousands of cattle captured on Google Earth, a website that stitches together satellite photographs to produce an image of the Earth’s surface.Grazing animals are known to orient themselves in a way that minimizes wind chill from the north and maximizes the warmth of the sun when they are cold. The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.The researchers concluded that cattle do generally orient themselves in a north-south direction. This north-south preference has also been noted in flies, termites and honeybees. But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail. The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+      "question": "What is the major finding of Dr. Begall’s study?"
+    },
+    {
+      "ID": 52,
+      "answer": "D",
+      "choice": {
+        "A": "Many cattle in their study were sitting on the ground.",
+        "B": "The cattle constantly change directions to avoid wind chill.",
+        "C": "There is magnetic difference between the two hemispheres.",
+        "D": "They couldn’t tell a cow’s head from its tail in the satellite pictures."
+      },
+      "content": "According to popular folklore, many animals are smarter than they appear. Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground. But cattle may have another hidden talent in telling which way is north.Small animals such as mole rats living underground are known for the use of magnetism to navigate. Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields. They investigated this possibility by studying images of thousands of cattle captured on Google Earth, a website that stitches together satellite photographs to produce an image of the Earth’s surface.Grazing animals are known to orient themselves in a way that minimizes wind chill from the north and maximizes the warmth of the sun when they are cold. The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.The researchers concluded that cattle do generally orient themselves in a north-south direction. This north-south preference has also been noted in flies, termites and honeybees. But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail. The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+      "question": "Why couldn’t the researchers get the answer to their research questions?"
+    },
+    {
+      "ID": 53,
+      "answer": "D",
+      "choice": {
+        "A": "To explain what causes children’s eating disorder.",
+        "B": "To teach children about the meal preparation process.",
+        "C": "To advocate the importance of vegetables and whole grains.",
+        "D": "To inform parents how they can help their children like varied foods."
+      },
+      "content": "Children normally have a distrust of new foods. But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.Some simple strategies can help even the pickiest eater learn to like a more varied diet. First of all, you don’t have to send children out of the kitchen. With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner. But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods. In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains. The researchers found that children who had cooked their own foods were more likely to eat those foods in the cafeteria than children who had not. Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.Another strategy is not to diet in front of your children. Kids are tuned into their parents’ eating preferences and are far more likely to try foods if they see their mother or father eating them. Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating. In one study of 5-year-old girls about dieting, one child noted that dieting involved drinking chocolate milkshakes, because her mother was using Slim-Fast drinks. Another child said dieting meant “you fix food but you don’t eat it.” By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+      "question": "What is the main purpose of this article?"
+    },
+    {
+      "ID": 54,
+      "answer": "A",
+      "choice": {
+        "A": "The children who help cook food.",
+        "B": "The children whose parents are on a diet.",
+        "C": "The children who do not love radishes.",
+        "D": "The children whose parents work in a cafeteria."
+      },
+      "content": "Children normally have a distrust of new foods. But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.Some simple strategies can help even the pickiest eater learn to like a more varied diet. First of all, you don’t have to send children out of the kitchen. With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner. But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods. In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains. The researchers found that children who had cooked their own foods were more likely to eat those foods in the cafeteria than children who had not. Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.Another strategy is not to diet in front of your children. Kids are tuned into their parents’ eating preferences and are far more likely to try foods if they see their mother or father eating them. Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating. In one study of 5-year-old girls about dieting, one child noted that dieting involved drinking chocolate milkshakes, because her mother was using Slim-Fast drinks. Another child said dieting meant “you fix food but you don’t eat it.” By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+      "question": "Which of the following groups will eat more balanced meals?"
+    },
+    {
+      "ID": 55,
+      "answer": "D",
+      "choice": {
+        "A": "Obvious.",
+        "B": "Healthful.",
+        "C": "Dishonest.",
+        "D": "Inappropriate."
+      },
+      "content": "Children normally have a distrust of new foods. But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.Some simple strategies can help even the pickiest eater learn to like a more varied diet. First of all, you don’t have to send children out of the kitchen. With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner. But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods. In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains. The researchers found that children who had cooked their own foods were more likely to eat those foods in the cafeteria than children who had not. Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.Another strategy is not to diet in front of your children. Kids are tuned into their parents’ eating preferences and are far more likely to try foods if they see their mother or father eating them. Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating. In one study of 5-year-old girls about dieting, one child noted that dieting involved drinking chocolate milkshakes, because her mother was using Slim-Fast drinks. Another child said dieting meant “you fix food but you don’t eat it.” By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+      "question": "What does erratic in the last sentence imply?"
+    },
+    {
+      "ID": 56,
+      "answer": "B",
+      "choice": {
+        "A": "It is children’s favorite food.",
+        "B": "It looks like a chocolate milkshake.",
+        "C": "It contains a variety of vegetables.",
+        "D": "It is intended for slim, fast people."
+      },
+      "content": "Children normally have a distrust of new foods. But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.Some simple strategies can help even the pickiest eater learn to like a more varied diet. First of all, you don’t have to send children out of the kitchen. With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner. But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods. In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains. The researchers found that children who had cooked their own foods were more likely to eat those foods in the cafeteria than children who had not. Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.Another strategy is not to diet in front of your children. Kids are tuned into their parents’ eating preferences and are far more likely to try foods if they see their mother or father eating them. Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating. In one study of 5-year-old girls about dieting, one child noted that dieting involved drinking chocolate milkshakes, because her mother was using Slim-Fast drinks. Another child said dieting meant “you fix food but you don’t eat it.” By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+      "question": "Which of the following is true about Slim-Fast?"
+    }
+  ]
+}

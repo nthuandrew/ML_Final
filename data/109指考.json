@@ -1,0 +1,197 @@
+{
+  "Year": "題目/109指考",
+  "reading_question": [
+    {
+      "ID": 36,
+      "answer": "B",
+      "choice": {
+        "A": "The elements of sewage.",
+        "B": "The treatment of wastewater.",
+        "C": "The history of draining systems.",
+        "D": "The ways to control manufacturing waste."
+      },
+      "content": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.Sewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+      "question": "What is the passage mainly about?"
+    },
+    {
+      "ID": 37,
+      "answer": "D",
+      "choice": {
+        "A": "Population growth.",
+        "B": "Increasing manufacturing waste.",
+        "C": "Overloaded drainage systems.",
+        "D": "Heavy rainfall due to climate change."
+      },
+      "content": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.Sewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+      "question": "Which of the following is NOT a reason for developing more effective systems to deal with wastewater?"
+    },
+    {
+      "ID": 38,
+      "answer": "C",
+      "choice": {
+        "A": "Wood.",
+        "B": "Heavy material.",
+        "C": "Grease.",
+        "D": "Organic matter."
+      },
+      "content": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.Sewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+      "question": "Which of the following can be removed in the primary tanks?"
+    },
+    {
+      "ID": 39,
+      "answer": "A",
+      "choice": {
+        "A": "To eliminate bacteria.",
+        "B": "To drain water.",
+        "C": "To dissolve solid particles.",
+        "D": "To remove oil."
+      },
+      "content": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.Sewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+      "question": "What is the main reason that liquid sewage needs to go through sand?"
+    },
+    {
+      "ID": 40,
+      "answer": "C",
+      "choice": {
+        "A": "The decrease of polluted creatures in the food chain.",
+        "B": "Using remote control in research on marine pollution.",
+        "C": "Pollution of the deep sea by persistent toxic chemicals.",
+        "D": "Types of chemical pollution caused by industrial applications."
+      },
+      "content": "The planet’s deepest point is in the Pacific Ocean’s Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.A team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world. These pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered “persistent organic pollutants” (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.These compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.The Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+      "question": "What is the passage mainly about?"
+    },
+    {
+      "ID": 41,
+      "answer": "B",
+      "choice": {
+        "A": "Operated by POPs.",
+        "B": "Filled with POPs.",
+        "C": "Completed with POPs.",
+        "D": "Discarded by POPs."
+      },
+      "content": "The planet’s deepest point is in the Pacific Ocean’s Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.A team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world. These pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered “persistent organic pollutants” (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.These compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.The Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+      "question": "Which of the following is closest in meaning to “POP-riddled” in paragraph 4?"
+    },
+    {
+      "ID": 42,
+      "answer": "D",
+      "choice": {
+        "A": "PCBs are often used in making electronic products.",
+        "B": "Chemicals washed down to the ocean stay on the surface.",
+        "C": "The deepest point of the Mariana Trench is free from pollution.",
+        "D": "A robotic vehicle was used to help study pollution in the Mariana Trench."
+      },
+      "content": "The planet’s deepest point is in the Pacific Ocean’s Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.A team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world. These pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered “persistent organic pollutants” (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.These compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.The Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+      "question": "According to the passage, which of the following statements is true?"
+    },
+    {
+      "ID": 43,
+      "answer": "A",
+      "choice": {
+        "A": "Marine pollution poses a threat to human health.",
+        "B": "Strict regulations are being developed to stop ocean pollution.",
+        "C": "PCBs and PBDEs become less harmful over long periods of time.",
+        "D": "Chemical pollution is more serious in rivers than in industrial areas."
+      },
+      "content": "The planet’s deepest point is in the Pacific Ocean’s Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.A team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world. These pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered “persistent organic pollutants” (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.These compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.The Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+      "question": "Which of the following can be inferred from the passage?"
+    },
+    {
+      "ID": 44,
+      "answer": "D",
+      "choice": {
+        "A": "Cynical.",
+        "B": "Humorous.",
+        "C": "Pessimistic.",
+        "D": "Respectful."
+      },
+      "content": "The All Blacks, New Zealand’s national rugby team, is widely credited for bringing the “haka” to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.What does “haka” mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.Thanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.Today, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+      "question": "Which of the following best describes the tone of this article?"
+    },
+    {
+      "ID": 45,
+      "answer": "C",
+      "choice": {
+        "A": "To anger their opponents.",
+        "B": "To gain public attention and fame.",
+        "C": "To boost their own spirits.",
+        "D": "To show respect to their ancestors."
+      },
+      "content": "The All Blacks, New Zealand’s national rugby team, is widely credited for bringing the “haka” to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.What does “haka” mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.Thanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.Today, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+      "question": "According to the passage, for what purpose do the All Blacks perform the haka?"
+    },
+    {
+      "ID": 46,
+      "answer": "B",
+      "choice": {
+        "A": "Sport.",
+        "B": "Performance.",
+        "C": "Competition.",
+        "D": "Occupation."
+      },
+      "content": "The All Blacks, New Zealand’s national rugby team, is widely credited for bringing the “haka” to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.What does “haka” mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.Thanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.Today, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+      "question": "Which of the following is closest in meaning to the word “practice” in the last paragraph?"
+    },
+    {
+      "ID": 47,
+      "answer": "D",
+      "choice": {
+        "A": "The traditional Māori haka is limited to use by male Māori warriors in battle.",
+        "B": "The original meaning of haka in Māori is a war dance accompanied by songs.",
+        "C": "The All Blacks have taken turns performing Ka Mate and Kapa o Pango since 1906.",
+        "D": "Haka are now used for important events by both Māori and non-Māori New Zealanders."
+      },
+      "content": "The All Blacks, New Zealand’s national rugby team, is widely credited for bringing the “haka” to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.What does “haka” mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.Thanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.Today, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+      "question": "According to the passage, which of the following statements is true?"
+    },
+    {
+      "ID": 48,
+      "answer": "D",
+      "choice": {
+        "A": "Computers and Assessments",
+        "B": "The Four Components of ESSA",
+        "C": "Student-Centered Curriculum and Instruction",
+        "D": "From NCLB to ESSA, with a Focus on Assessment"
+      },
+      "content": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.One important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student’s performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student’s level of understanding and provide instant feedback to help in the learning process.Another idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.A third idea is the emphasis on students’ learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students’ learning process. These data together present a more complete picture of a student’s learning. The last idea regards the purpose of assessment. Assessment should be used to inform both teachers’ instruction and students’ learning. Teachers can modify their teaching based on students’ performance on tests; students can identify their own problems and make plans for improvement.",
+      "question": "Which of the following is the best title for this passage?"
+    },
+    {
+      "ID": 49,
+      "answer": "C",
+      "choice": {
+        "A": "The choice between SAT and ACT.",
+        "B": "The choice between NCLB and ESSA.",
+        "C": "Whether or not to use student-centered assessment.",
+        "D": "Whether or not to replace computer-based assessment."
+      },
+      "content": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.One important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student’s performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student’s level of understanding and provide instant feedback to help in the learning process.Another idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.A third idea is the emphasis on students’ learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students’ learning process. These data together present a more complete picture of a student’s learning. The last idea regards the purpose of assessment. Assessment should be used to inform both teachers’ instruction and students’ learning. Teachers can modify their teaching based on students’ performance on tests; students can identify their own problems and make plans for improvement.",
+      "question": "What does the word “dilemma” in paragraph 2 refer to?"
+    },
+    {
+      "ID": 50,
+      "answer": "D",
+      "choice": {
+        "A": "Math.",
+        "B": "Reading.",
+        "C": "Science.",
+        "D": "Economics."
+      },
+      "content": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.One important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student’s performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student’s level of understanding and provide instant feedback to help in the learning process.Another idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.A third idea is the emphasis on students’ learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students’ learning process. These data together present a more complete picture of a student’s learning. The last idea regards the purpose of assessment. Assessment should be used to inform both teachers’ instruction and students’ learning. Teachers can modify their teaching based on students’ performance on tests; students can identify their own problems and make plans for improvement.",
+      "question": "Which of the following is an emerging new subject in the ESSA assessment?"
+    },
+    {
+      "ID": 51,
+      "answer": "C",
+      "choice": {
+        "A": "Paragraph 2.",
+        "B": "Paragraph 3.",
+        "C": "Paragraph 4.",
+        "D": "Paragraph 5."
+      },
+      "content": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.One important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student’s performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student’s level of understanding and provide instant feedback to help in the learning process.Another idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.A third idea is the emphasis on students’ learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students’ learning process. These data together present a more complete picture of a student’s learning. The last idea regards the purpose of assessment. Assessment should be used to inform both teachers’ instruction and students’ learning. Teachers can modify their teaching based on students’ performance on tests; students can identify their own problems and make plans for improvement.",
+      "question": "If the following sentences were to be included in the passage, which paragraph should they go to?One good example is that many teachers today are asking students to keep a learning portfolio, which is a purposeful collection of student works at different points of time in the semester. This portfolio exhibits students’ effort, progress, and achievements in one or more areas of the course."
+    }
+  ]
+}
